@@ -78,3 +78,10 @@ Data Scientist role requiring:
  'Score': 85,
  'Explanation': 'Candidate has strong matching skills including Python, Machine Learning, and SQL with relevant experience.'
 }
+
+output
+<img width="1518" height="868" alt="Screenshot 2026-04-15 184031" src="https://github.com/user-attachments/assets/5332fe35-8cff-4028-bcad-82d11957b854" />
+<img width="985" height="820" alt="Screenshot 2026-04-15 184326" src="https://github.com/user-attachments/assets/e2fbe241-c1b8-4785-9317-d613130f923c" />
+<img width="1393" height="809" alt="Screenshot 2026-04-15 184507" src="https://github.com/user-attachments/assets/ec6665f3-34af-4f53-b0d2-7c3b5c9aa058" />
+<img width="1028" height="816" alt="Screenshot 2026-04-15 184743" src="https://github.com/user-attachments/assets/5a9a6f86-8dcf-428d-9cb5-ad5457383a87" />
+

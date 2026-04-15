@@ -71,6 +71,13 @@ Data Scientist role requiring:
 
 ---
 
+<img width="1518" height="868" alt="Screenshot 2026-04-15 184031" src="https://github.com/user-attachments/assets/4848f1d1-716a-451f-8f8e-c4866d375448" />
+<img width="985" height="820" alt="Screenshot 2026-04-15 184326" src="https://github.com/user-attachments/assets/72962064-0f89-4254-9dca-074d05bed49a" />
+<img width="1393" height="809" alt="Screenshot 2026-04-15 184507" src="https://github.com/user-attachments/assets/c62f2240-b0ec-4b9c-a015-90a5c4b9e429" />
+<img width="1028" height="816" alt="Screenshot 2026-04-15 184743" src="https://github.com/user-attachments/assets/202197e2-1546-4837-b0b4-77cc003b401c" />
+
+
+
 ##  Output Example
 
 ```python
@@ -78,10 +85,3 @@ Data Scientist role requiring:
  'Score': 85,
  'Explanation': 'Candidate has strong matching skills including Python, Machine Learning, and SQL with relevant experience.'
 }
-
-output
-<img width="1518" height="868" alt="Screenshot 2026-04-15 184031" src="https://github.com/user-attachments/assets/5332fe35-8cff-4028-bcad-82d11957b854" />
-<img width="985" height="820" alt="Screenshot 2026-04-15 184326" src="https://github.com/user-attachments/assets/e2fbe241-c1b8-4785-9317-d613130f923c" />
-<img width="1393" height="809" alt="Screenshot 2026-04-15 184507" src="https://github.com/user-attachments/assets/ec6665f3-34af-4f53-b0d2-7c3b5c9aa058" />
-<img width="1028" height="816" alt="Screenshot 2026-04-15 184743" src="https://github.com/user-attachments/assets/5a9a6f86-8dcf-428d-9cb5-ad5457383a87" />
-
